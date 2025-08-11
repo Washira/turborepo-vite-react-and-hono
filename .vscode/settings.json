@@ -1,0 +1,16 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.sortImports": "explicit"
+  },
+  "eslint.validate": ["javascript", "json"],
+  "css.customData": [".vscode/tailwind_related_data.json"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "git.pruneOnFetch": true,
+  "git.pullTags": false,
+  "yaml.maxItemsComputed": 40000,
+  "i18n-ally.localesPaths": ["public/locales"],
+  "i18n-ally.keystyle": "flat"
+}
